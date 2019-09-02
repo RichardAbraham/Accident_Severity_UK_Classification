@@ -1,0 +1,2 @@
+# Analyzing-Road-Safety-UK-Classification
+Analyzed the Road Safety and Traffic Demographics (UK) dataset, containing accidents reported by the police between the years 2005 - 2016. The goal was to identify the factors responsible for most of the reported accidents, create a predictive model that was capable of accurately predicting the severity of an accident and finally providing recommendations to the Department of Transport (UK) to enhance road safety policies and prevent recurrences of severe accidents where possible.
