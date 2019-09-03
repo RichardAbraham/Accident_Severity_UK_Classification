@@ -1,4 +1,4 @@
-# Analyzing_Road_Safety_UK_Classification
+# Analyzing_Road_Safety_UK_classification
 
 # Summary
 Analyzed the Road Safety and Traffic Demographics dataset (UK), containing accidents reported by the police between the years of 2004 - 2017. The goal was to identify the factors responsible for most of the reported accidents, create a ML model that was capable of accurately predicting the severity of an accident and finally, provide recommendations to the Department of Transport (UK Government), to improve road safety policies and prevent recurrences of severe accidents where possible.
