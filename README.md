@@ -4,7 +4,7 @@
 Here, I am aim to analyze the [Road Safety and Traffic Demographics dataset (UK)](https://www.kaggle.com/tsiaras/uk-road-safety-accidents-and-vehicles), containing accidents reported by the police between the years of 2004 - 2017. 
 
 ### PROJECT GOALS:
-* identify factors responsible for most of the reported accidents.
+* Identify factors responsible for most of the reported accidents.
 * Build a machine learning model that is capable of accurately predicting the severity of an accident.
 * Provide recommendations to the Department of Transport (UK Government), to improve road safety policies and prevent recurrences of severe accidents where possible.
 
@@ -21,7 +21,7 @@ The UK government amassed traffic data from 2004 to 2017, recording over 2 milli
 
 Note that all the contained accident data comes from police reports, so this data does not include minor incidents.
 
-*For steps undertaken to pre-process and clean the data, please view the "Data Cleansing & Descriptive Analysis_UK Traffic Demographics.ipynb" file*
+* For steps undertaken to pre-process and clean the data, please view the "Data Cleansing & Descriptive Analysis_UK Traffic Demographics.ipynb" file
 
 ## DESCRIPTIVE ANALYTICS (EDA)
 
@@ -33,7 +33,7 @@ Note that all the contained accident data comes from police reports, so this dat
 
 *As seen above, the data is highly imbalanced.*
 
-For detailed steps undertaken to deal with the imbalanced data, please view the "Modelling_Predictive Analytics_UK Traffic Demographics.ipynb" file.
+* For detailed steps undertaken to deal with the imbalanced data, please view the "Modelling_Predictive Analytics_UK Traffic Demographics.ipynb" file.
 
 [This article](https://towardsdatascience.com/metrics-for-imbalanced-classification-41c71549bbb5) provides some great tips on utilizing the correct performance metrics when analyzing a models performance trained on an imbalanced dataset.
 
@@ -72,7 +72,7 @@ For detailed steps undertaken to deal with the imbalanced data, please view the 
 
 #### For more findings, please go to the "Images" folder.
 
-#### For steps undertaken to carry out some predictive modeling and hyper-parameter tuning, please view the "Modelling_Predictive Analytics_UK Traffic Demographics.ipynb" file.
+* For steps undertaken to carry out some **predictive modeling and hyper-parameter tuning**, please view the "Modelling_Predictive Analytics_UK Traffic Demographics.ipynb" file.
 
 ## RECOMMENDATIONS TO THE DEPARTMENT OF TRANSPORT (UK)
 
@@ -81,7 +81,7 @@ For detailed steps undertaken to deal with the imbalanced data, please view the 
 * Explore conditions of vehicles and casualties such as vehicle type, age of vehicles registered, pedestrian movements, etc. for policy makers.
 * Adopt comprehensive distracted driving laws that increase penalties for drivers who commit traffic violations like aggressive overtaking.
 
-### Acknowledgements
+### ACKNOWLEDGEMENTS
 The license for this dataset is the Open Givernment Licence used by all data on data.gov.uk. The raw datasets are available from the UK Department of Transport website.
 
 #### I had a lot of fun working on this dataset and learned a lot in the process. I plan to further my research in the area of predictive modeling using imabalanced data and how to effectively build a highly robust model for future projects.
