@@ -81,7 +81,7 @@ For detailed steps undertaken to deal with the imbalanced data, please view the 
 * Explore conditions of vehicles and casualties such as vehicle type, age of vehicles registered, pedestrian movements, etc. for policy makers.
 * Adopt comprehensive distracted driving laws that increase penalties for drivers who commit traffic violations like aggressive overtaking.
 
-# Acknowledgements
+### Acknowledgements
 The license for this dataset is the Open Givernment Licence used by all data on data.gov.uk. The raw datasets are available from the UK Department of Transport website.
 
-### I had a lot of fun working on this dataset and learned a lot in the process. I plan to further my research in the area of predictive modeling using imabalanced data and how to effectively build a highly robust model for future projects.
+#### I had a lot of fun working on this dataset and learned a lot in the process. I plan to further my research in the area of predictive modeling using imabalanced data and how to effectively build a highly robust model for future projects.
