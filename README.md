@@ -31,7 +31,7 @@ Note that all the contained accident data comes from police reports, so this dat
 
 ![Percent dist of Accident Severity](https://user-images.githubusercontent.com/54816432/64552229-d21da980-d304-11e9-95ef-57588e9379cd.png)
 
-*As seen above, the data is highly imbalanced. This was dealt with using several techniques including resampling, using different performance metrics, using Decision Tree based algorithms, etc. Please refer to the python file for more details.*
+*As seen above, the data is highly imbalanced.*
 
 For detailed steps undertaken to deal with the imbalanced data, please view the "Modelling_Predictive Analytics_UK Traffic Demographics.ipynb" file.
 
