@@ -52,7 +52,7 @@ Note that all the contained accident data comes from police reports, so this dat
 
 ![geomap](https://user-images.githubusercontent.com/54816432/64553068-ab607280-d306-11e9-8079-985605c98287.png)
 
-*Most accidents took place in major cities - Birmingham, London, leeds, Newcastle
+*Most accidents took place in major cities - Birmingham, London, leeds, Newcastle*
 
 ### Accidents by Gender and Age
 
@@ -68,7 +68,7 @@ Note that all the contained accident data comes from police reports, so this dat
 
 ![Vehicle Manoever at time of accident](https://user-images.githubusercontent.com/54816432/64554775-0e9fd400-d30a-11e9-8a69-f2bc5336cee9.png)
 
-*Most accidetns take place as a result of overtaking*
+*Most accidents take place as a result of overtaking*
 
 #### For more findings, please go to the "Images" folder.
 
